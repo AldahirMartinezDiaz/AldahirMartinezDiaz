@@ -1,5 +1,11 @@
 ## Aldahir Martinez Diaz
 Estudiante actual del séptimo semestre de la carrera Ingeniería en Mecatrónica en la casa de estudios Universidad Tecnológica de la Mixteca ubicada en la ciudad de Huajuapan de León, Oaxaca. Egresado en 2021 con el grado de técnico en la especialidad de Mecatrónica de la escuela media superior CBTis 123 "José María Morelos y Pavón", en la ciudad de Oaxaca.
+
+Mis principales motivaciones de estudiar esta Ingeniería recae en el hecho de que es una carrera MULTIDISCIPLINARIA, una carrera de esta índole involucra tener y generar conocimientos de muchas ramas, en este caso, MECATRÓNICA, abarca muchas ciencias tecnológicas como son: MECÁNICA, ELECTRÓNICA, ELEÉCTRICA, PROGRAMACIÓN, DISEÑO, ROBÓTICA, CONTROL y AUTOMATIZACIÓN, siendo esta última la rama de mayor interés para su servidor.
+
+La AUTOMATIZACIÓN es una posible área de la MECATRÓNICA en la que desenvuelva mis conocimientos adquiridos refentes a Neumática e Hidráulica y a Control Lógico Programable (PLC). El buen gusto del manejo de softwares como FluidSIM y TIA Portal provocan el querer introducirse más a fondo en está ciencia, así como también que este tipo de tecnología es requerida a un nivel industrial, donde la oferta laboral es muy amplia para ingenieros y/o especialistas.
+
+Por el lado de la PROGRAMACIÓN, una rama muy importante de la Ingeniería en Mecátronica, en donde se tiene solamente las bases de programación estructurada y programación orientada a objetos, se maneja lenguajes como: C, C++, Java, JavaScript. Estos conocimientos se han utilizado en el uso de algunos softwares, por ejemplo: ARDUINO, LATEX, MATLAB, etc. Un lenguaje que es necesario y a su servidor le gustaria aprender es Phyton, un lenguaje muy utilizado en la actualidad tanto en el ámbito educativo como profesional.
 <!--
 **AldahirMartinezDiaz/AldahirMartinezDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
