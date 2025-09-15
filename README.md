@@ -1,4 +1,6 @@
 ## Aldahir Martinez Diaz
+![](https://github.com/AldahirMartinezDiaz/AldahirMartinezDiaz/blob/main/IMG_1099.jpeg)
+
 Estudiante actual del séptimo semestre de la carrera Ingeniería en Mecatrónica en la casa de estudios Universidad Tecnológica de la Mixteca ubicada en la ciudad de Huajuapan de León, Oaxaca. Egresado en 2021 con el grado de técnico en la especialidad de Mecatrónica de la escuela media superior CBTis 123 "José María Morelos y Pavón", en la ciudad de Oaxaca.
 
 Mis principales motivaciones de estudiar esta Ingeniería recae en el hecho de que es una carrera MULTIDISCIPLINARIA, una carrera de esta índole involucra tener y generar conocimientos de muchas ramas, en este caso, MECATRÓNICA, abarca muchas ciencias tecnológicas como son: MECÁNICA, ELECTRÓNICA, ELEÉCTRICA, PROGRAMACIÓN, DISEÑO, ROBÓTICA, CONTROL y AUTOMATIZACIÓN, siendo esta última la rama de mayor interés para su servidor.
