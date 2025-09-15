@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Aldahir Martinez Diaz
+Estudiante actual del séptimo semestre de la carrera Ingeniería en Mecatrónica en la casa de estudios Universidad Tecnológica de la Mixteca ubicada en la ciudad de Huajuapan de León, Oaxaca. Egresado en 2021 con el grado de técnico en la especialidad de Mecatrónica de la escuela media superior CBTis 123 "José María Morelos y Pavón", en la ciudad de Oaxaca.
 <!--
 **AldahirMartinezDiaz/AldahirMartinezDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
