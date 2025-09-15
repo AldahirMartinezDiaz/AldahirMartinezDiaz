@@ -5,7 +5,7 @@ Mis principales motivaciones de estudiar esta Ingeniería recae en el hecho de q
 
 La AUTOMATIZACIÓN es una posible área de la MECATRÓNICA en la que desenvuelva mis conocimientos adquiridos refentes a Neumática e Hidráulica y a Control Lógico Programable (PLC). El buen gusto del manejo de softwares como FluidSIM y TIA Portal provocan el querer introducirse más a fondo en está ciencia, así como también que este tipo de tecnología es requerida a un nivel industrial, donde la oferta laboral es muy amplia para ingenieros y/o especialistas.
 
-Por el lado de la PROGRAMACIÓN, una rama muy importante de la Ingeniería en Mecátronica, en donde se tiene solamente las bases de programación estructurada y programación orientada a objetos, se maneja lenguajes como: C, C++, Java, JavaScript. Estos conocimientos se han utilizado en el uso de algunos softwares, por ejemplo: ARDUINO, LATEX, MATLAB, etc. Un lenguaje que es necesario y a su servidor le gustaria aprender es Phyton, un lenguaje muy utilizado en la actualidad tanto en el ámbito educativo como profesional.
+Por el lado de la PROGRAMACIÓN, una rama muy importante de la Ingeniería en Mecátronica, en donde se tiene solamente las bases de programación estructurada y programación orientada a objetos, se maneja lenguajes como: C, C++, Java, JavaScript. Estos conocimientos se han utilizado en el uso de algunos softwares, por ejemplo: ARDUINO, LATEX, MATLAB, etc. Un lenguaje necesario y que a su servidor le gustaria aprender es, Phyton, lenguaje de programación muy utilizado en la actualidad tanto en el ámbito educativo como profesional.
 <!--
 **AldahirMartinezDiaz/AldahirMartinezDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
